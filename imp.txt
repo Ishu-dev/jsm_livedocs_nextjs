@@ -1,0 +1,10 @@
+clerk download 29:39
+33:00 unable to fontSize in clerk or any import
+
+41:00 removed liveblocksprovider publicapikey  publicApiKey={"pk_dev_2DZH0_7EeiHEw0el2KosaWolLvvYtgGyzcLlEJcydkrGGdgzVaKdO554VVjB_l7-"}
+
+44:00 problem aa sakti he
+
+46:52 new secret key in route.ts
+
+1:26:35 setDocumentTitle -> setdocumentTitle in collaborativeRooms.tsx
